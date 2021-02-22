@@ -1,0 +1,14 @@
+{
+    "contactDetails": {
+		"foreName": "Dipak",
+		"surname": "Bachhav",
+		"emailAddress": "dipak.bachhav@test.com",
+		"telephone": "07104151513",
+		"message": "This is test data"
+	},
+
+    "loginCredentials": {
+    	"userName": "testUser",
+    	"password": "letmein"
+   	}
+}

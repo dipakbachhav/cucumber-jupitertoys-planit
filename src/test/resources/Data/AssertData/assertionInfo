@@ -1,0 +1,12 @@
+{
+		"ContactPageHeader": "We welcome your feedback",
+		"ForeNameError": "Forename is required",
+		"EmailError": "Email is required",
+		"MessageError": "Message is required",
+		"PopUpFeedbackMessage":"Sending Feedback",
+		"UserConfirmation": "Thanks ",
+		"FeedbackMessage": "we appreciate your feedback.",
+		"LoginPageHeader": "Login"
+
+
+}
