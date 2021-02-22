@@ -1,7 +1,7 @@
 Serenity BDD Framework : Author : Dipak Bachhav
 
 Custom Feature :
-1. Included Java log to print the output messages which eliminate `systerm.out practice`
+1. Included Java log to print the output messages which eliminate `system.out.println` practice`
 3. Capable to view both Serenity Report and Cucumber summary report
 4. Lots of Helpers are included in the Framework to fast track the scripting and avoid duplication
 5. Multi browser support is already available in the framework to run test through multiple browser (chrome/firefox)
