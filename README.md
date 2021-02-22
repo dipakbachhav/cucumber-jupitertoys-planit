@@ -16,7 +16,7 @@ Run tests with gradle
 `./gradlew test`
 
 
-## Options
+## Cross browser testing
 
 Options set via `serenity.properties`
 
@@ -24,7 +24,7 @@ Options set via `serenity.properties`
 
 #To produce report use below :
 - `$gradlew clean test aggregate`
-Test Reports Path : Serenity Report - target/site/serenity/index.html  HTML Report - target/Destination/TestCaseName/index.html
+Test Reports Path : Serenity Report - target/site/serenity/index.html
 
 
 #To produce emailable reports use below
